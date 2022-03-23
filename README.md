@@ -7,7 +7,7 @@ Using this app you can:
 - Or delete the task.
 
 
-<img src="https://user-images.githubusercontent.com/31738365/159608231-493c8393-01df-45cc-adc0-0f59b3ee36cd.jpeg" width="310" height="650">   <img src="https://user-images.githubusercontent.com/31738365/159608294-99d228a8-94f6-458b-ad58-31f9d8a0773f.jpeg" width="310" height="650">
+<img src="https://user-images.githubusercontent.com/31738365/159608231-493c8393-01df-45cc-adc0-0f59b3ee36cd.jpeg" width="290" height="620">   <img src="https://user-images.githubusercontent.com/31738365/159608294-99d228a8-94f6-458b-ad58-31f9d8a0773f.jpeg" width="290" height="620">
 
 .
 
