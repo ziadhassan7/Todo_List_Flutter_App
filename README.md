@@ -15,7 +15,7 @@ Using this app you can:
 
 - This UI is for adding a new tasks:
 
-<img src="https://user-images.githubusercontent.com/31738365/159610066-b3163e3c-5de7-4431-bd22-6eb58d7d3cd7.jpeg" width="280" height="607">    -   <img src="https://user-images.githubusercontent.com/31738365/159610194-bc553689-b488-4ef5-990c-b6b011a57e43.jpeg" width="280" height="607">
+<img src="https://user-images.githubusercontent.com/31738365/159610066-b3163e3c-5de7-4431-bd22-6eb58d7d3cd7.jpeg" width="280" height="590">    -   <img src="https://user-images.githubusercontent.com/31738365/159610194-bc553689-b488-4ef5-990c-b6b011a57e43.jpeg" width="280" height="590">
 
 
 - Add due dates to your task ^_^:
