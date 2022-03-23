@@ -32,7 +32,7 @@ class DueDateHelper {
 
       //if not on the same day but it is less than 3 days left
       if (remainingDays < 3 && !remainingDays.isNegative) {
-        return "   due in $remainingDays";
+        return "   due in $remainingDays days";
       }
 
     } // else print full date
