@@ -100,7 +100,7 @@ class _TaskScreenState extends State<TaskScreen> {
               ),
 
               ///                                                               /Main Body//
-              ///                                                               /TextFormField - Task Name
+              ///
               FutureBuilder(
                   future: _getCurrentTask(),
                   builder: (context, AsyncSnapshot snapshot) {
@@ -151,6 +151,7 @@ class _TaskScreenState extends State<TaskScreen> {
       child: SingleChildScrollView(
         child: Column(
           children: [
+            ///                                                                 /TextFormField - Task Name
             Padding(
                 padding:
                 const EdgeInsets.symmetric(vertical: 20, horizontal: 35),
