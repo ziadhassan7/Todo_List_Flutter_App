@@ -182,14 +182,21 @@ class _TaskScreenState extends State<TaskScreen> {
   }
 
   /// /Custom TextFormField
-  TextFormField textFormField(
+  TextField textFormField(
       {String? text,
         String? hintText,
         double fontSize = 40,
         required TextEditingController controller}) {
 
-    return TextFormField(
-      initialValue: text,
+
+    //Initial Value
+    if (text != null){
+      controller.text = text;
+    }
+
+    return TextField(
+      textCapitalization: TextCapitalization.sentences, //first character capitalized
+      //initialValue: text,
       controller: controller,
       style: TextStyle(
           color: Colors.white, fontSize: fontSize, fontWeight: FontWeight.bold),
